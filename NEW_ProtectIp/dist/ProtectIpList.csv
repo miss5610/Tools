@@ -1,0 +1,18 @@
+﻿上線狀態,IP,MAC,主機名稱,主機狀態,區域名稱,網段名稱,作業系統,主機板序號,網域群組,交換器名稱,交換器埠,電子信箱,上次上線時間,上次下線時間,VLAN,網卡廠商,申請人帳號,申請人姓名,訪客姓名,單位,E-MAIL,聯絡電話,申請日期,HOSTID
+True,192.168.28.1,00E04C6807A0,Eric-NB,,Eric,VLAN 28,,,WORKGROUP,C3750_Active.pixis.com,"5001,Port-channel1",,2025/5/19 下午 06:02:28,2025/5/19 上午 11:43:08,28,,,,,,,,,765
+True,192.168.28.2,005056AEC1FB,SERVER2019-ERIC,重要 IP,Eric,VLAN 28,Windows,,WORKGROUP,C3750_Active.pixis.com,"5005,Port-channel5",,2025/5/20 上午 10:50:12,2025/5/20 上午 10:22:13,28,,eric.lin,林禹丞,,,,,,256
+True,192.168.28.87,005056AEDE26,DEBIAN,,Eric,VLAN 28,,,WORKGROUP,C3750_Active.pixis.com,"5008,Port-channel8",,2025/5/15 上午 10:34:08,,28,,,,,,,,,341
+True,192.168.28.88,005056AEDE26,DEBIAN,,Eric,VLAN 28,,,WORKGROUP,C3750_Active.pixis.com,"5008,Port-channel8",,2025/5/20 上午 10:25:11,2025/5/20 上午 10:12:46,28,,,,,,,,,341
+True,192.168.28.172,005056AE8E0B,,特權 MAC,Eric,VLAN 28,PIXIS OS,,,C3750_Active.pixis.com,"5006,Port-channel6",,2025/5/14 下午 02:14:00,,28,PIXIS,,,,,,,,426
+True,192.168.28.180,005056AE1AA3,SERVER_ERIC,,Eric,VLAN 28,Windows,,WORKGROUP,C3750_Active.pixis.com,"5007,Port-channel7",,2025/5/14 下午 02:14:05,,28,,,,,,,,,434
+True,192.168.28.254,D4A02AE9F1D3,,,Eric,VLAN 28,Cisco,,,,,,2025/5/14 下午 02:14:06,,28,,,,,,,,,508
+True,192.168.25.23,005056AE196F,SERVER2016J,,Neeeee,VLAN 25,,None,pixistest.com,C3750_Active.pixis.com,"5005,Port-channel5",,2025/5/14 下午 02:15:41,,25,,,,,,,,,531
+True,192.168.25.87,005056AE9F0A,,特權 MAC,Neeeee,VLAN 25,PIXIS OS,,,C3750_Active.pixis.com,"5006,Port-channel6",,2025/5/14 下午 02:15:34,,25,PIXIS,,,,,,,,595
+True,192.168.25.152,005056AEB343,CLIENT167,GLBP、IP 衝突,Neeeee,VLAN 25,Windows,,PIXISTEST,C3750_Active.pixis.com,"5005,Port-channel5",,2025/5/19 下午 10:27:37,2025/5/19 下午 10:25:22,25,,,,,,,,,660
+True,192.168.25.180,005056AEC042,SERVER2016_SOUR,,Neeeee,VLAN 25,Windows,,WORKGROUP,C3750_Active.pixis.com,"5005,Port-channel5",,2025/5/14 下午 02:15:43,,25,,,,,,,,,688
+True,192.168.25.254,D4A02AE9F1D0,,,Neeeee,VLAN 25,Cisco,,,,,,2025/5/14 下午 02:15:44,,25,,,,,,,,,762
+True,192.168.29.67,005056AE7615,CLIENT167,,Eric,VLAN 29,Windows,,PIXISTEST,C3750_Active.pixis.com,"5005,Port-channel5",,2025/5/19 上午 09:43:07,2025/5/19 上午 09:42:12,29,,,,,,,,,833
+True,192.168.29.87,005056AE8E0B,,特權 MAC,Eric,VLAN 29,PIXIS OS,,,C3750_Active.pixis.com,"5006,Port-channel6",,2025/5/16 下午 05:06:03,,29,PIXIS,,,,,,,,426
+True,192.168.29.150,005056AE8C94,CLIENT-152,,Eric,VLAN 29,Windows,,WORKGROUP,C3750_Active.pixis.com,"5005,Port-channel5",,2025/5/19 上午 11:28:15,2025/5/19 上午 10:30:04,29,,,,,,,,,1021
+True,192.168.29.180,005056AE16BE,SERVER2016_SOUR,,Eric,VLAN 29,Microsoft Windows Server 2016 Datacenter,None,WORKGROUP,C3750_Active.pixis.com,"5005,Port-channel5",,2025/5/16 下午 05:06:12,,29,,,,,,,,,946
+True,192.168.29.254,D4A02AE9F1D4,,,Eric,VLAN 29,,,,,,,2025/5/16 下午 05:06:12,,29,,,,,,,,,1020
