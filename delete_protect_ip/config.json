@@ -1,0 +1,20 @@
+{
+    "ldap1": {
+        "ip": "192.168.10.1",
+        "dn": "DC=pixistest,DC=com",
+        "acc": "pixistest\\eric",
+        "pwd": "azsx1864"
+    },
+    "ldap2": {
+        "ip": "192.168.10.201",
+        "dn": "DC=pixis,DC=com",
+        "acc": "pixis\\eric.lin",
+        "pwd": "Ericf129427661"
+    },
+    "sql": {
+        "ip": "192.168.28.180",
+        "db": "LDAP",
+        "acc": "sa",
+        "pwd": "111aaaBBB"
+    }
+}
